@@ -36,7 +36,7 @@ The U.S. is facing a growing population that is affected by problems such as obe
    npm start
    ```
 5. Complete the necessary setup with the frontend:
-   [Frontend]([[https://github.com/your-github-profile](https://github.com/Brilynd)](https://github.com/burtone520/blue-eating/tree/master))
+   [Frontend](https://github.com/burtone520/blue-eating/tree/master)
 
 ## API Endpoints
 - **User Registration**: `POST /api/register`
@@ -54,5 +54,5 @@ We learned more about MongoDB Atlas, GitHub Copilot, generating REST APIs, and d
 We ran into a few challenges throughout our project. We initially ran into some difficulties connecting the databases using MongoDB Atlas and initializing the REST APIs we generated via those APIs. Specifically, we had some difficulty passing recipe images into our database, but resolved that issue by circumnavigating MongoDB Atlas. To do this, we implemented a muter and then stored the images into a folder inside of a Node.js file.
 
 ## Contributors
-- [Brilynd]([https://github.com/your-github-profile](https://github.com/Brilynd))
-- [eburton520]([https://github.com/collaborator-github-profile](https://github.com/eburton520))
+- [Brilynd]((https://github.com/Brilynd))
+- [eburton520]((https://github.com/eburton520))
