@@ -35,6 +35,8 @@ The U.S. is facing a growing population that is affected by problems such as obe
    ```sh
    npm start
    ```
+5. Complete the necessary setup with the frontend:
+   [Frontend]([[https://github.com/your-github-profile](https://github.com/Brilynd)](https://github.com/burtone520/blue-eating/tree/master))
 
 ## API Endpoints
 - **User Registration**: `POST /api/register`
